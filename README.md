@@ -1,39 +1,57 @@
-# PEC3: Visionando el futuro con las gafas de Manovich 
+# PEC3 — Manovich
 
-### Recurso de aprendizaje de Cultura Digital 
+## Repositorio del proyecto
 
+Repositorio GitHub:  
+https://github.com/rjusdado-source/PEC3_Manovich_Reloaded
 
-Autor: 
+---
 
+# Autor
 
-Fecha: 
+**Nombre:** Rodolfo Jusdado  
+**Asignatura:** Cultura Digital  
+**Práctica:** PEC3 — Manovich   
+**Curso académico:** TO DO
+**Fecha:** TO DO
 
-![Cultura Digital](https://miro.medium.com/max/1400/0*9PyyNvrO2PcD3KuU.png) 
+---
 
+# Introducción
 
+La evolución del software ha transformado profundamente la manera en que se producen, representan y consumen los medios digitales. En *El software toma el mando*, Lev Manovich analiza cómo el software deja de ser únicamente una herramienta técnica para convertirse en un agente cultural capaz de modificar la percepción, la interacción y las formas de representación contemporáneas.
 
-## Planteamiento
+Especialmente en los capítulos 3 y 5, Manovich desarrolla conceptos como la hibridación de medios y el software cultural, explicando cómo distintos lenguajes visuales, estructuras de datos y sistemas de interacción convergen para generar experiencias mediáticas imposibles fuera del entorno computacional.
 
+Este ensayo analiza dos ejemplos contemporáneos de hibridación digital que permiten reinterpretar las ideas de Manovich desde la cultura visual actual:
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+- [Selfiecity](http://selfiecity.net)
+- [Windy](https://www.windy.com)
 
+Ambos proyectos muestran cómo el software contemporáneo no solo organiza información, sino que también transforma la experiencia cultural mediante visualizaciones interactivas, navegación dinámica y representación algorítmica de la realidad.
 
-## Re-descubriendo la hibridacion: Caso 1 primera pueba cambio
+> TO DO:
+>
+> - Añadir cita textual de *El software toma el mando*.
+> - Añadir referencia bibliográfica completa.
+> - Revisar referencias concretas a capítulos 3 y 5.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+---
 
+# ¿Qué es la hibridación según Manovich?
 
+Lev Manovich diferencia la simple multimedia de la verdadera hibridación digital. Mientras que la multimedia se limita a combinar distintos medios dentro de un mismo entorno, la hibridación implica una integración más profunda donde los lenguajes, técnicas y formas de interacción de distintos medios se fusionan para crear nuevos sistemas culturales.
 
-## Re-descubriendo la hibridacion: Caso 2
+La hibridación no consiste únicamente en mostrar texto, vídeo o imágenes simultáneamente, sino en generar nuevas formas de representación imposibles sin la mediación del software.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Desde esta perspectiva, la interfaz deja de ser un simple elemento funcional y pasa a convertirse en un lenguaje cultural que organiza la experiencia del usuario.
 
+En este contexto, los casos de Selfiecity y Windy permiten observar cómo el software actual transforma tanto la representación visual como la manera en que navegamos e interpretamos la información.
 
-### Referencias y Bibliografía
+![TODO Imagen conceptual sobre software e interfaces](./img/introduccion_hibridacion.jpg)
 
-* Manovich, Lev. (2013). **El Software toma el mando**. Barcelona: Editorial UOC. 
-
-
-----
-
-Licencia: Material Creative Commons desarrollado bajo licencia CC BY-SA 4.0. Imágenes CC BY [Tubik studio](https://blog.tubikstudio.com/how-to-create-original-flat-illustrations-designers-tips/) 
+> TO DO:
+>
+> - Añadir imagen optimizada.
+> - Incorporar cita directa del capítulo 3.
+> - Revisar diferencia entre multimedia, remediación e hibridación.
