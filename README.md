@@ -1,4 +1,4 @@
-# PEC3 — Manovich
+# PEC3 - Manovich
 
 ## Repositorio del proyecto
 
@@ -11,7 +11,7 @@ https://github.com/rjusdado-source/PEC3_Manovich_Reloaded
 
 **Nombre:** Rodolfo Jusdado  
 **Asignatura:** Cultura Digital  
-**Práctica:** PEC3 — Manovich   
+**Práctica:** PEC3 - Manovich   
 **Curso académico:** TO DO
 **Fecha:** TO DO
 
