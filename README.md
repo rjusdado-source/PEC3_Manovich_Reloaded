@@ -49,6 +49,7 @@ Desde esta perspectiva, la interfaz deja de ser un simple elemento funcional y p
 En este contexto, los casos de Selfiecity y Windy permiten observar cómo el software actual transforma tanto la representación visual como la manera en que navegamos e interpretamos la información.
 
 ![TODO Imagen conceptual sobre software e interfaces](./img/introduccion_hibridacion.jpg)
+**ojo con las imagenes (temita licencia y luego referncia)
 
 > TO DO:
 >
