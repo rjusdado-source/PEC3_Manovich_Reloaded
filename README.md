@@ -38,8 +38,6 @@ https://github.com/rjusdado-source/PEC3_Manovich_Reloaded
 - [Bibliografía](#bibliografía)
 - [Recursos multimedia](#recursos-multimedia)
 - [Licencia](#licencia)
-- [Estado del proyecto](#estado-del-proyecto)
-
 
 ---
 ---
