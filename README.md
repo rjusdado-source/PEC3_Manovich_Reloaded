@@ -17,6 +17,33 @@ https://github.com/rjusdado-source/PEC3_Manovich_Reloaded
 
 ---
 
+# TO DO: Índice (revisar como se enlaza7navega  en markdown)
+
+- [Introducción](#introducción)
+- [¿Qué es la hibridación según Manovich?](#qué-es-la-hibridación-según-manovich)
+
+- [Caso 1 - Selfiecity](#caso-1--selfiecity)
+  - [Presentación del caso](#presentación-del-caso)
+  - [Selfiecity como ejemplo de hibridación](#selfiecity-como-ejemplo-de-hibridación)
+  - [Visualización cultural y representación algorítmica](#visualización-cultural-y-representación-algorítmica)
+  - [Reflexión personal sobre Selfiecity](#reflexión-personal-sobre-selfiecity)
+
+- [Caso 2 - Windy](#caso-2--windy)
+  - [Presentación del caso](#presentación-del-caso-1)
+  - [Windy como ejemplo de hibridación](#windy-como-ejemplo-de-hibridación)
+  - [Navegación espacial y experiencia inmersiva](#navegación-espacial-y-experiencia-inmersiva)
+  - [Reflexión personal sobre Windy](#reflexión-personal-sobre-windy)
+
+- [Conclusiones](#conclusiones)
+- [Bibliografía](#bibliografía)
+- [Recursos multimedia](#recursos-multimedia)
+- [Licencia](#licencia)
+- [Estado del proyecto](#estado-del-proyecto)
+
+
+---
+---
+
 # Introducción
 
 La evolución del software ha transformado profundamente la manera en que se producen, representan y consumen los medios digitales. En *El software toma el mando*, Lev Manovich analiza cómo el software deja de ser únicamente una herramienta técnica para convertirse en un agente cultural capaz de modificar la percepción, la interacción y las formas de representación contemporáneas.
