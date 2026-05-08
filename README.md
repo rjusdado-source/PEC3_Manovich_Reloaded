@@ -48,7 +48,7 @@ Desde esta perspectiva, la interfaz deja de ser un simple elemento funcional y p
 
 En este contexto, los casos de Selfiecity y Windy permiten observar cómo el software actual transforma tanto la representación visual como la manera en que navegamos e interpretamos la información.
 
-![TODO Imagen conceptual sobre software e interfaces](./img/introduccion_hibridacion.jpg) ***ojo con las imágenes (temita licencia / luego referenciar licenciamiento abajo)
+![TODO Imagen conceptual sobre software e interfaces](todo./img/introduccion_hibridacion.jpg) ***ojo con las imágenes (temita licencia / luego referenciar licenciamiento abajo)
 
 > TO DO:
 >
@@ -57,6 +57,7 @@ En este contexto, los casos de Selfiecity y Windy permiten observar cómo el sof
 > - Revisar diferencia entre multimedia, remediación e hibridación.
 
 
+---
 ---
 
 # Caso 1 - Selfiecity
@@ -80,7 +81,7 @@ Más allá de funcionar como una simple galería de imágenes, Selfiecity transf
 
 La experiencia de navegación permite recorrer grandes conjuntos de imágenes organizadas a través de patrones visuales y métricas algorítmicas que revelan diferencias culturales, gestuales y estéticas entre distintas ciudades.
 
-![TO DO: Visualización de patrones en Selfiecity](./img/selfiecity.jpg)
+![TO DO: Visualización de patrones en Selfiecity](todo./img/selfiecity.jpg)
 
 > TO DO:
 >
@@ -165,3 +166,108 @@ Más allá de analizar selfies, el proyecto muestra cómo el software puede actu
 > - Añadir reflexión final conectada con Manovich.
 > - Revisar extensión final del apartado.
 > - Añadir referencia bibliográfica complementaria.
+
+
+---
+---
+
+# Caso 2 - Windy
+
+## Presentación del caso
+
+Plataforma oficial: https://www.windy.com
+
+Windy es una plataforma interactiva de visualización meteorológica que combina cartografía dinámica, simulación atmosférica y navegación en tiempo real mediante una interfaz visual altamente inmersiva.
+
+La plataforma integra diferentes recursos digitales como:
+
+- mapas interactivos,
+- visualización de datos climáticos,
+- simulaciones dinámicas,
+- navegación espacial,
+- representación audiovisual,
+- y actualización continua de información meteorológica.
+
+A diferencia de los mapas meteorológicos tradicionales, Windy transforma datos científicos complejos en una experiencia visual fluida donde el usuario puede explorar fenómenos atmosféricos de forma intuitiva e interactiva.
+
+La navegación por la plataforma genera la sensación de desplazarse dentro de un paisaje dinámico construido mediante datos y simulaciones computacionales.
+
+![TO DO: Visualización cartográfica en Windy](todo./img/windy.jpg)
+
+> TO DO:
+>
+> - Añadir captura optimizada de Windy.
+> - Añadir fuente original de la imagen.
+> - Revisar tamaño y resolución para GitHub.
+
+---
+
+## Windy como ejemplo de hibridación
+
+Windy representa una forma avanzada de hibridación digital donde convergen cartografía, simulación, animación y representación de datos en tiempo real.
+
+La plataforma no se limita a mostrar información meteorológica. Su interfaz convierte el clima en una experiencia visual navegable donde los datos adquieren una dimensión espacial y casi sensorial.
+
+La experiencia híbrida surge de la integración entre:
+
+- simulación computacional,
+- cartografía digital,
+- visualización interactiva,
+- representación audiovisual,
+- y navegación dinámica.
+
+Desde la perspectiva de Manovich, Windy ejemplifica cómo el software contemporáneo genera nuevas formas de representación imposibles dentro de los medios tradicionales.
+
+La interfaz deja de funcionar únicamente como una herramienta técnica y se convierte en el propio lenguaje del medio.
+
+Esta idea conecta directamente con las reflexiones de Manovich sobre la hibridación de medios en el capítulo 3, donde distintos sistemas visuales y formas de interacción convergen para crear nuevas experiencias culturales mediadas por software.
+
+> TO DO:
+>
+> - Añadir cita textual del capítulo 3.
+> - Incorporar referencia al concepto de interfaz cultural.
+> - Revisar relación entre simulación y representación híbrida.
+
+---
+
+## Navegación espacial y experiencia inmersiva
+
+Uno de los elementos más interesantes de Windy es la manera en que transforma la navegación cartográfica en una experiencia visual inmersiva.
+
+El usuario no observa únicamente datos meteorológicos estáticos, sino flujos dinámicos que representan movimientos atmosféricos en tiempo real.
+
+La animación constante de corrientes de viento, presión y temperatura genera una percepción espacial continua donde los datos parecen comportarse como elementos orgánicos en movimiento.
+
+Esta representación dinámica modifica completamente la experiencia tradicional de consulta meteorológica. La información científica deja de presentarse mediante tablas o gráficos aislados y pasa a convertirse en un entorno navegable e interactivo.
+
+Desde esta perspectiva, Windy puede interpretarse como un ejemplo claro de cómo el software contemporáneo transforma los datos en experiencia visual.
+
+La plataforma no solo representa información: construye una nueva forma de percibir fenómenos naturales mediante simulación computacional e interfaz interactiva.
+
+> TO DO:
+>
+> - Relacionar el caso con el concepto de navegación espacial.
+> - Añadir referencia a representación dinámica.
+> - Revisar posible relación con estética de flujo.
+
+---
+
+## Reflexión personal sobre Windy
+
+Al explorar Windy, resulta difícil no percibir cómo la representación visual condiciona completamente la experiencia meteorológica.
+
+La plataforma permite comprender fenómenos atmosféricos complejos de una manera intuitiva y visualmente inmersiva. La interacción resulta fluida y genera una sensación constante de exploración espacial dentro de un entorno construido mediante datos.
+
+Sin embargo, esta experiencia también evidencia cómo la percepción contemporánea de la realidad depende cada vez más de interfaces, simulaciones y sistemas algorítmicos.
+
+La naturaleza deja de percibirse directamente y pasa a experimentarse a través de representaciones computacionales generadas por software.
+
+Desde mi punto de vista, este aspecto conecta claramente con las ideas de Manovich sobre el software cultural, donde la interfaz no solo organiza información, sino que también condiciona la manera en que interpretamos el mundo.
+
+Windy demuestra cómo el software contemporáneo puede transformar información científica compleja en una experiencia cultural visualmente accesible, aunque siempre mediada por estructuras algorítmicas e interfaces digitales.
+
+> TO DO:
+>
+> - Añadir reflexión y posiblecomparativa con Selfiecity.
+> - Revisar  cierre.
+> - Añadir referencia bibliográfica.
