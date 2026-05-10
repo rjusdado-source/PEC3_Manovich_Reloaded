@@ -12,7 +12,7 @@ https://github.com/rjusdado-source/PEC3_Manovich_Reloaded
 **Nombre:** Rodolfo Jusdado  
 **Asignatura:** Cultura Digital  
 **Práctica:** PEC3 - Manovich   
-**Curso académico:** TO DO
+**Curso académico:** 1er. semestre 2026
 **Fecha:** TO DO
 
 ---
@@ -48,6 +48,10 @@ La evolución del software ha transformado profundamente la manera en que se pro
 
 Especialmente en los capítulos 3 y 5, Manovich desarrolla conceptos como la hibridación de medios y el software cultural, explicando cómo distintos lenguajes visuales, estructuras de datos y sistemas de interacción convergen para generar experiencias mediáticas imposibles fuera del entorno computacional.
 
+Como señala Manovich, “la hibridación es una de las principales consecuencias de la informatización de los medios”, ya que el software permite que técnicas y formas culturales previamente separadas converjan dentro de un mismo entorno digital.
+
+Esta transformación no afecta únicamente a la representación visual, sino también a la forma en que interpretamos y navegamos la información. En el capítulo 5, Manovich plantea además cómo el software contemporáneo actúa como una capa cultural que condiciona gran parte de la experiencia digital actual.
+
 Este ensayo analiza dos ejemplos contemporáneos de hibridación digital que permiten reinterpretar las ideas de Manovich desde la cultura visual actual:
 
 - [Selfiecity](http://selfiecity.net)
@@ -55,11 +59,13 @@ Este ensayo analiza dos ejemplos contemporáneos de hibridación digital que per
 
 Ambos proyectos muestran cómo el software contemporáneo no solo organiza información, sino que también transforma la experiencia cultural mediante visualizaciones interactivas, navegación dinámica y representación algorítmica de la realidad.
 
-> TO DO:
+En ambos casos, la interfaz deja de ser un simple soporte técnico y pasa a convertirse en parte esencial del propio lenguaje del medio.
+
+![TO DO: Imagen conceptual sobre software e interfaces](./img/introduccion_hibridacion.jpg)
+
+> Referencia:
 >
-> - Añadir cita textual de *El software toma el mando*.
-> - Añadir referencia bibliográfica completa.
-> - Revisar referencias concretas a capítulos 3 y 5.
+> Manovich, Lev. *El software toma el mando*. Barcelona: Editorial UOC, 2013.
 
 ---
 
@@ -69,18 +75,28 @@ Lev Manovich diferencia la simple multimedia de la verdadera hibridación digita
 
 La hibridación no consiste únicamente en mostrar texto, vídeo o imágenes simultáneamente, sino en generar nuevas formas de representación imposibles sin la mediación del software.
 
-Desde esta perspectiva, la interfaz deja de ser un simple elemento funcional y pasa a convertirse en un lenguaje cultural que organiza la experiencia del usuario.
+En el capítulo 3 de *El software toma el mando*, Manovich explica cómo el software permite que medios tradicionalmente separados comiencen a compartir técnicas, estructuras y formas de interacción hasta generar nuevos lenguajes híbridos.
 
-En este contexto, los casos de Selfiecity y Windy permiten observar cómo el software actual transforma tanto la representación visual como la manera en que navegamos e interpretamos la información.
+Como consecuencia, elementos como la interfaz, la navegación o la visualización de datos dejan de actuar únicamente como recursos técnicos y pasan a formar parte del propio lenguaje cultural de los nuevos medios digitales.
 
-![TODO Imagen conceptual sobre software e interfaces](todo./img/introduccion_hibridacion.jpg) ***ojo con las imágenes (temita licencia / luego referenciar licenciamiento abajo)
+A diferencia de la remediación, donde un medio reutiliza características de otro anterior, la hibridación produce estructuras nuevas donde resulta difícil separar claramente los medios originales que intervienen.
 
-> TO DO:
+Desde esta perspectiva, proyectos como Selfiecity y Windy no representan únicamente ejemplos de multimedia avanzada, sino formas contemporáneas de hibridación digital donde convergen:
+
+- visualización de datos,
+- representación visual,
+- navegación interactiva,
+- simulación,
+- automatización,
+- y estructuras algorítmicas.
+
+Ambos casos permiten observar cómo el software contemporáneo transforma tanto la representación visual como la manera en que navegamos e interpretamos la información.
+
+![TO DO: Imagen conceptual sobre software e interfaces](./img/introduccion_hibridacion.jpg)
+
+> Referencia:
 >
-> - Añadir imagen optimizada.
-> - Incorporar cita directa del capítulo 3.
-> - Revisar diferencia entre multimedia, remediación e hibridación.
-
+> Manovich, Lev. *El software toma el mando*. Barcelona: Editorial UOC, 2013. Capítulo 3.
 
 ---
 ---
@@ -100,25 +116,30 @@ El proyecto combina distintos elementos digitales como:
 - análisis automatizado,
 - visualización cultural,
 - estadística,
-- e interacción visual.
+- interacción visual.
 
 Más allá de funcionar como una simple galería de imágenes, Selfiecity transforma comportamientos sociales en estructuras visuales interpretables mediante software.
 
 La experiencia de navegación permite recorrer grandes conjuntos de imágenes organizadas a través de patrones visuales y métricas algorítmicas que revelan diferencias culturales, gestuales y estéticas entre distintas ciudades.
 
-![TO DO: Visualización de patrones en Selfiecity](todo./img/selfiecity.jpg)
+Uno de los aspectos más interesantes del proyecto es cómo la fotografía deja de analizarse únicamente desde una perspectiva artística o documental y pasa a convertirse en información procesable mediante estructuras computacionales.
 
-> TO DO:
+La interfaz permite explorar relaciones entre edad, expresión facial, inclinación del rostro o contexto urbano, generando una experiencia híbrida donde convergen representación visual, análisis estadístico y navegación interactiva.
+
+Desde esta perspectiva, Selfiecity no estudia únicamente imágenes individuales, sino patrones culturales construidos mediante software.
+
+![TO DO: Visualización de patrones en Selfiecity](./img/selfiecity.jpg)
+
+> Referencias:
 >
-> - Añadir captura optimizada de Selfiecity.
-> - Añadir fuente original de la imagen.
-> - Revisar formato de las imágenes para GitHub.
+> - Selfiecity - http://selfiecity.net
+> - Manovich, Lev. *El software toma el mando*. Barcelona: Editorial UOC, 2013.
 
 ---
 
 ## Selfiecity como ejemplo de hibridación
 
-Uno de los aspectos más interesantes de Selfiecity es cómo transforma la fotografía individual en una experiencia colectiva basada en datos. La imagen deja de ser únicamente un objeto visual y pasa a convertirse en información procesable.
+Uno de los aspectos más interesantes de Selfiecity es cómo transforma la fotografía individual en una experiencia colectiva basada en datos. La imagen deja de ser únicamente un objeto visual y pasa a convertirse en información procesable mediante software.
 
 Al recorrer las visualizaciones del proyecto, resulta evidente cómo el software actúa como intermediario cultural capaz de detectar patrones sociales invisibles para la observación humana tradicional.
 
@@ -141,13 +162,25 @@ En este sentido, Selfiecity representa claramente una hibridación entre:
 
 La interfaz no solo organiza contenido visual; también produce nuevas formas de conocimiento cultural a partir del análisis computacional de las imágenes.
 
-Esta idea conecta directamente con el concepto de software cultural desarrollado por Manovich en el capítulo 5, donde el software deja de ser una simple herramienta para convertirse en un sistema capaz de modelar la experiencia cultural contemporánea.
+En el capítulo 5 de *El software toma el mando*, Manovich desarrolla la idea de software cultural para explicar cómo las aplicaciones digitales contemporáneas dejan de ser herramientas neutrales y pasan a intervenir activamente en la producción y organización de la cultura visual.
 
-> TO DO:
+Selfiecity encaja claramente dentro de esta lógica. El proyecto no se limita a mostrar fotografías tomadas por usuarios de distintas ciudades, sino que reorganiza visualmente esos contenidos mediante procesos algorítmicos capaces de generar nuevas lecturas culturales.
+
+La representación visual ya no depende únicamente de la mirada humana. El software participa directamente en la interpretación de los datos, estableciendo relaciones, agrupaciones y patrones que transforman la percepción del usuario.
+
+Desde esta perspectiva, la visualización cultural funciona como una forma híbrida donde convergen:
+
+- bases de datos,
+- automatización,
+- representación visual,
+- e interacción dinámica.
+
+Como consecuencia, el usuario deja de comportarse como un simple espectador y pasa a explorar sistemas visuales organizados computacionalmente.
+
+> Referencias:
 >
-> - Añadir cita textual del capítulo 5.
-> - Incorporar referencia concreta a visualización cultural.
-> - Revisar relación entre software cultural y análisis algorítmico.
+> - Manovich, Lev. *El software toma el mando*. Barcelona: Editorial UOC, 2013. Capítulo 5.
+> - Selfiecity - http://selfiecity.net
 
 ---
 
@@ -161,18 +194,26 @@ Desde esta perspectiva, el proyecto refleja cómo el software contemporáneo mod
 
 La navegación por Selfiecity genera además una experiencia muy distinta a la de una galería fotográfica tradicional. El usuario no recorre imágenes aisladas, sino sistemas visuales organizados algorítmicamente.
 
+Esta transformación conecta directamente con la idea de base de datos desarrollada por Manovich en sus estudios sobre nuevos medios. La colección de imágenes deja de organizarse mediante una narrativa lineal y pasa a estructurarse como un conjunto dinámico de elementos navegables y reorganizables mediante software.
+
 En este contexto, la interfaz funciona como un lenguaje híbrido donde convergen:
 
 - bases de datos,
 - representación visual,
 - interacción dinámica,
-- y automatización computacional.
+- automatización computacional,
+- y navegación visual.
 
-> TO DO:
+La experiencia cultural ya no depende únicamente del contenido de las imágenes, sino también de la manera en que el software las organiza, clasifica y representa visualmente.
+
+Selfiecity demuestra así cómo la cultura visual contemporánea se encuentra profundamente condicionada por procesos algorítmicos capaces de transformar imágenes cotidianas en modelos interpretativos de comportamiento social.
+
+Desde mi punto de vista, este aspecto resulta especialmente interesante porque muestra cómo el software contemporáneo no solo almacena información, sino que participa activamente en la construcción de significado cultural.
+
+> Referencias:
 >
-> - Añadir referencia específica al concepto de base de datos.
-> - Relacionar el caso con las ideas de representación híbrida.
-> - Revisar posible conexión con remediación.
+> - Manovich, Lev. *El software toma el mando*. Barcelona: Editorial UOC, 2013.
+> - Selfiecity — http://selfiecity.net
 
 ---
 
@@ -184,13 +225,20 @@ El proyecto evidencia tanto las posibilidades como las limitaciones de la cultur
 
 Esta tensión entre interpretación cultural y reducción algorítmica refleja una de las principales transformaciones de la cultura digital contemporánea: la creciente dependencia de sistemas computacionales para comprender la realidad social.
 
+Al recorrer las visualizaciones del proyecto, la experiencia deja de parecer un simple análisis fotográfico y empieza a sentirse como una exploración algorítmica del comportamiento humano.
+
+La interfaz permite comparar ciudades, gestos y patrones visuales de una forma intuitiva, pero al mismo tiempo genera la sensación de que la identidad individual queda parcialmente reducida a métricas, categorías y estructuras de datos.
+
+Desde esta perspectiva, Selfiecity demuestra cómo el software contemporáneo puede ampliar enormemente nuestra capacidad de análisis cultural, aunque también condiciona la forma en que interpretamos la realidad visual.
+
+Esta idea conecta claramente con el concepto de software cultural desarrollado por Manovich, donde las interfaces y sistemas computacionales participan activamente en la construcción de la experiencia contemporánea.
+
 Más allá de analizar selfies, el proyecto muestra cómo el software puede actuar como una herramienta de interpretación cultural capaz de reorganizar visualmente la experiencia humana.
 
-> TO DO:
+> Referencias:
 >
-> - Añadir reflexión final conectada con Manovich.
-> - Revisar extensión final del apartado.
-> - Añadir referencia bibliográfica complementaria.
+> - Manovich, Lev. *El software toma el mando*. Barcelona: Editorial UOC, 2013. Capítulo 5.
+> - Selfiecity — http://selfiecity.net
 
 
 ---
@@ -351,11 +399,7 @@ Esta tensión entre ampliación perceptiva y mediación algorítmica representa 
 ## Referencias complementarias
 
 > TO DO:
->
-> - Añadir artículos académicos complementarios.
-> - Incorporar referencias sobre visualización cultural.
-> - Añadir referencias sobre interfaces y software cultural.
-> - Revisar formato APA completo.
+> a valorar si interesa agruipar todas las referencias en esta sección.
 
 ---
 
@@ -370,8 +414,8 @@ Esta tensión entre ampliación perceptiva y mediación algorítmica representa 
 > TO DO:
 >
 > - Añadir referencias completas de las imágenes.
-> - Revisar licencias de uso.
-> - Optimizar tamaño de imágenes para GitHub.
+> - Revisar licencias de uso (ver licenciamiento de posibles capturas de pantalla).
+> - Optimizar tamaño de imágenes para GitHub y ver como crear ubicar la carpeta img de imagenes (revisar el proyecto origen propuesto en la asignatura, tenía una imagen)
 
 ---
 
@@ -383,7 +427,7 @@ Este proyecto utiliza una licencia abierta siguiendo la filosofía de cultura co
 >
 > - Decidir licencia definitiva.
 > - Finalizar fichero LICENSE.
-> - Revisar uso de licencia Creative Commons.
+> - Revisar uso de licencia Creative Commons (y posibles capturas).
 
 ---
 
