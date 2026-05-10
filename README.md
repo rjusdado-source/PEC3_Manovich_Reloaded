@@ -213,7 +213,7 @@ Desde mi punto de vista, este aspecto resulta especialmente interesante porque m
 > Referencias:
 >
 > - Manovich, Lev. *El software toma el mando*. Barcelona: Editorial UOC, 2013.
-> - Selfiecity — http://selfiecity.net
+> - Selfiecity - http://selfiecity.net
 
 ---
 
@@ -238,7 +238,7 @@ Más allá de analizar selfies, el proyecto muestra cómo el software puede actu
 > Referencias:
 >
 > - Manovich, Lev. *El software toma el mando*. Barcelona: Editorial UOC, 2013. Capítulo 5.
-> - Selfiecity — http://selfiecity.net
+> - Selfiecity - http://selfiecity.net
 
 
 ---
@@ -265,13 +265,23 @@ A diferencia de los mapas meteorológicos tradicionales, Windy transforma datos 
 
 La navegación por la plataforma genera la sensación de desplazarse dentro de un paisaje dinámico construido mediante datos y simulaciones computacionales.
 
-![TO DO: Visualización cartográfica en Windy](todo./img/windy.jpg)
+Uno de los elementos más llamativos de la interfaz es la representación animada de corrientes de viento y fenómenos atmosféricos en tiempo real. Los datos dejan de percibirse como información estática y pasan a convertirse en elementos visuales en movimiento que el usuario puede explorar libremente.
 
-> TO DO:
+La experiencia de uso resulta especialmente inmersiva porque combina simultáneamente:
+
+- interacción táctil o visual,
+- representación cartográfica,
+- simulación dinámica,
+- y actualización constante de datos.
+
+Desde esta perspectiva, Windy no funciona únicamente como una herramienta meteorológica, sino como una forma híbrida de representación visual mediada completamente por software.
+
+![TO DO: Visualización cartográfica en Windy](./img/windy.jpg)
+
+> Referencias:
 >
-> - Añadir captura optimizada de Windy.
-> - Añadir fuente original de la imagen.
-> - Revisar tamaño y resolución para GitHub.
+> - Windy - https://www.windy.com
+> - Manovich, Lev. *El software toma el mando*. Barcelona: Editorial UOC, 2013.
 
 ---
 
@@ -287,19 +297,33 @@ La experiencia híbrida surge de la integración entre:
 - cartografía digital,
 - visualización interactiva,
 - representación audiovisual,
-- y navegación dinámica.
+- navegación dinámica,
+- y actualización permanente de datos.
 
 Desde la perspectiva de Manovich, Windy ejemplifica cómo el software contemporáneo genera nuevas formas de representación imposibles dentro de los medios tradicionales.
 
 La interfaz deja de funcionar únicamente como una herramienta técnica y se convierte en el propio lenguaje del medio.
 
-Esta idea conecta directamente con las reflexiones de Manovich sobre la hibridación de medios en el capítulo 3, donde distintos sistemas visuales y formas de interacción convergen para crear nuevas experiencias culturales mediadas por software.
+En el capítulo 3 de *El software toma el mando*, Manovich explica cómo la hibridación digital aparece cuando diferentes técnicas y lenguajes mediáticos comienzan a integrarse hasta generar nuevas experiencias culturales mediadas por software.
 
-> TO DO:
+Windy refleja claramente esta idea porque combina elementos procedentes de distintos medios y sistemas visuales:
+
+- mapas,
+- simulación científica,
+- animación,
+- representación de datos,
+- e interacción en tiempo real.
+
+El resultado no es simplemente una suma de recursos visuales, sino una nueva forma de experimentar la información meteorológica mediante navegación interactiva y representación dinámica.
+
+La experiencia del usuario deja de basarse en consultar datos aislados y pasa a centrarse en explorar visualmente fenómenos atmosféricos dentro de un entorno digital fluido y continuo.
+
+Desde esta perspectiva, Windy representa una forma híbrida donde la simulación y la interfaz se convierten en parte esencial de la experiencia cultural contemporánea.
+
+> Referencias:
 >
-> - Añadir cita textual del capítulo 3.
-> - Incorporar referencia al concepto de interfaz cultural.
-> - Revisar relación entre simulación y representación híbrida.
+> - Manovich, Lev. *El software toma el mando*. Barcelona: Editorial UOC, 2013. Capítulo 3.
+> - Windy - https://www.windy.com
 
 ---
 
@@ -317,11 +341,25 @@ Desde esta perspectiva, Windy puede interpretarse como un ejemplo claro de cómo
 
 La plataforma no solo representa información: construye una nueva forma de percibir fenómenos naturales mediante simulación computacional e interfaz interactiva.
 
-> TO DO:
+Esta idea conecta con el concepto de navegación espacial desarrollado por Manovich en relación con los nuevos medios digitales. La interfaz ya no organiza únicamente contenidos, sino que crea espacios visuales explorables donde la interacción forma parte esencial de la experiencia cultural.
+
+En Windy, el usuario se desplaza visualmente por un entorno construido mediante datos, capas de información y representación dinámica del territorio.
+
+La experiencia resulta especialmente inmersiva porque combina simultáneamente:
+
+- exploración espacial,
+- simulación en tiempo real,
+- representación visual continua,
+- interacción directa con la interfaz.
+
+Desde mi punto de vista, uno de los aspectos más interesantes de Windy es cómo consigue transformar información científica compleja en una experiencia intuitiva y visualmente accesible sin perder sensación de profundidad técnica.
+
+El software no solo facilita el acceso a los datos; también redefine la manera en que esos datos son percibidos e interpretados culturalmente.
+
+> Referencias:
 >
-> - Relacionar el caso con el concepto de navegación espacial.
-> - Añadir referencia a representación dinámica.
-> - Revisar posible relación con estética de flujo.
+> - Manovich, Lev. *El software toma el mando*. Barcelona: Editorial UOC, 2013.
+> - Windy - https://www.windy.com
 
 ---
 
@@ -331,6 +369,8 @@ Al explorar Windy, resulta difícil no percibir cómo la representación visual 
 
 La plataforma permite comprender fenómenos atmosféricos complejos de una manera intuitiva y visualmente inmersiva. La interacción resulta fluida y genera una sensación constante de exploración espacial dentro de un entorno construido mediante datos.
 
+La navegación cartográfica, las animaciones dinámicas y la actualización continua de información convierten la experiencia de uso en algo mucho más cercano a recorrer un paisaje digital que a consultar una herramienta meteorológica tradicional.
+
 Sin embargo, esta experiencia también evidencia cómo la percepción contemporánea de la realidad depende cada vez más de interfaces, simulaciones y sistemas algorítmicos.
 
 La naturaleza deja de percibirse directamente y pasa a experimentarse a través de representaciones computacionales generadas por software.
@@ -339,12 +379,14 @@ Desde mi punto de vista, este aspecto conecta claramente con las ideas de Manovi
 
 Windy demuestra cómo el software contemporáneo puede transformar información científica compleja en una experiencia cultural visualmente accesible, aunque siempre mediada por estructuras algorítmicas e interfaces digitales.
 
-> TO DO:
+Al mismo tiempo, la plataforma muestra cómo la cultura digital contemporánea tiende a convertir grandes volúmenes de datos en experiencias visuales fluidas e intuitivas, donde la representación dinámica se vuelve más importante que la información aislada.
+
+Más allá de funcionar como una herramienta técnica, Windy representa una nueva forma de interacción cultural basada en navegación espacial, simulación y representación computacional de la realidad.
+
+> Referencias:
 >
-> - Añadir reflexión y posiblecomparativa con Selfiecity.
-> - Revisar  cierre.
-> - Añadir referencia bibliográfica.
->
+> - Manovich, Lev. *El software toma el mando*. Barcelona: Editorial UOC, 2013. Capítulos 3 y 5.
+> - Windy - https://www.windy.com
 
 ---
 ---
@@ -365,16 +407,17 @@ Los dos casos reflejan claramente las ideas desarrolladas por Lev Manovich en re
 
 Desde mi punto de vista, ambos proyectos demuestran cómo las ideas planteadas por Manovich continúan siendo plenamente vigentes para analizar la cultura digital actual.
 
-Sin embargo, también evidencian una cierta dependencia contemporánea de los sistemas algorítmicos para interpretar la realidad. El software amplía enormemente nuestras capacidades de visualización y comprensión, pero al mismo tiempo condiciona la manera en que percibimos identidad, espacio y conocimiento.
+Tanto Selfiecity como Windy muestran cómo el software contemporáneo amplía enormemente nuestras capacidades de visualización y comprensión, permitiendo interpretar fenómenos sociales y naturales mediante nuevas formas de representación interactiva.
+
+Sin embargo, ambos casos también evidencian una creciente dependencia de sistemas algorítmicos e interfaces digitales para interpretar la realidad. La experiencia contemporánea del mundo se encuentra cada vez más mediada por software capaz de reorganizar visualmente información compleja.
 
 Esta tensión entre ampliación perceptiva y mediación algorítmica representa probablemente uno de los rasgos más relevantes de la cultura digital contemporánea.
 
-> TO DO:
+En este sentido, las reflexiones de Manovich continúan siendo especialmente útiles para comprender cómo el software no solo organiza información, sino que también participa activamente en la construcción cultural de nuestra experiencia digital.
+
+> Referencias:
 >
-> - Añadir cita final de Manovich.
-> - Revisar cohesión global entre ambos casos.
-> - Ajustar longitud final del ensayo.
-> - Revisar posible repetición conceptual entre apartados.
+> - Manovich, Lev. *El software toma el mando*. Barcelona: Editorial UOC, 2013. Capítulos 3 y 5.
 
 ---
 
@@ -382,24 +425,32 @@ Esta tensión entre ampliación perceptiva y mediación algorítmica representa 
 
 ## Bibliografía principal
 
-- Manovich, Lev. *El software toma el mando*. TO DO: completar edición, editorial y año.
+- Manovich, Lev. *El software toma el mando*. Barcelona: Editorial UOC, 2013.
 
 ---
 
-## Recursos web
+## Recursos web analizados
+
+### Selfiecity
 
 - Selfiecity  
   http://selfiecity.net
 
-- Windy  
+- Manovich, Lev et al. *Selfiecity: Exploring Photography and Self-Fashioning in Social Media*  
+  http://selfiecity.net/#about
+
+---
+
+### Windy
+
+- Windy - Weather Forecast  
   https://www.windy.com
 
 ---
 
 ## Referencias complementarias
 
-> TO DO:
-> a valorar si interesa agruipar todas las referencias en esta sección.
+- Manovich, Lev. *El lenguaje de los nuevos medios de comunicación*. Barcelona: Paidós, 2005.
 
 ---
 
