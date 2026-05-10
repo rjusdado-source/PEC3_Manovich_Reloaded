@@ -296,3 +296,95 @@ Windy demuestra cómo el software contemporáneo puede transformar información 
 > - Añadir reflexión y posiblecomparativa con Selfiecity.
 > - Revisar  cierre.
 > - Añadir referencia bibliográfica.
+>
+
+---
+---
+
+# Conclusiones
+
+Los casos de Selfiecity y Windy permiten observar cómo la hibridación digital contemporánea va mucho más allá de la simple combinación multimedia descrita en los primeros entornos digitales.
+
+En ambos ejemplos, el software actúa como un sistema cultural capaz de transformar datos complejos en experiencias visuales navegables e interactivas.
+
+Aunque ambos proyectos pertenecen a ámbitos diferentes, comparten una característica fundamental: la interfaz deja de ser un simple soporte funcional y se convierte en una forma de representación cultural.
+
+En Selfiecity, el software analiza comportamientos sociales mediante visualización algorítmica y estructuras de datos visuales. La identidad individual pasa a representarse como información interpretable computacionalmente.
+
+En Windy, la simulación meteorológica transforma fenómenos naturales en paisajes dinámicos explorables mediante navegación cartográfica interactiva.
+
+Los dos casos reflejan claramente las ideas desarrolladas por Lev Manovich en relación con la hibridación de medios y el software cultural. El software ya no funciona únicamente como herramienta técnica, sino como un sistema capaz de reorganizar la percepción contemporánea mediante interfaces, algoritmos y representación dinámica de datos.
+
+Desde mi punto de vista, ambos proyectos demuestran cómo las ideas planteadas por Manovich continúan siendo plenamente vigentes para analizar la cultura digital actual.
+
+Sin embargo, también evidencian una cierta dependencia contemporánea de los sistemas algorítmicos para interpretar la realidad. El software amplía enormemente nuestras capacidades de visualización y comprensión, pero al mismo tiempo condiciona la manera en que percibimos identidad, espacio y conocimiento.
+
+Esta tensión entre ampliación perceptiva y mediación algorítmica representa probablemente uno de los rasgos más relevantes de la cultura digital contemporánea.
+
+> TO DO:
+>
+> - Añadir cita final de Manovich.
+> - Revisar cohesión global entre ambos casos.
+> - Ajustar longitud final del ensayo.
+> - Revisar posible repetición conceptual entre apartados.
+
+---
+
+# Bibliografía
+
+## Bibliografía principal
+
+- Manovich, Lev. *El software toma el mando*. TO DO: completar edición, editorial y año.
+
+---
+
+## Recursos web
+
+- Selfiecity  
+  http://selfiecity.net
+
+- Windy  
+  https://www.windy.com
+
+---
+
+## Referencias complementarias
+
+> TO DO:
+>
+> - Añadir artículos académicos complementarios.
+> - Incorporar referencias sobre visualización cultural.
+> - Añadir referencias sobre interfaces y software cultural.
+> - Revisar formato APA completo.
+
+---
+
+# Recursos multimedia
+
+## Imágenes utilizadas
+
+- TO DO
+- TO DO
+- TO DO
+
+> TO DO:
+>
+> - Añadir referencias completas de las imágenes.
+> - Revisar licencias de uso.
+> - Optimizar tamaño de imágenes para GitHub.
+
+---
+
+# Licencia
+
+Este proyecto utiliza una licencia abierta siguiendo la filosofía de cultura compartida y reutilización colaborativa mencionada en el planteamiento de la práctica.
+
+> TO DO:
+>
+> - Decidir licencia definitiva.
+> - Finalizar fichero LICENSE.
+> - Revisar uso de licencia Creative Commons.
+
+---
+
+
