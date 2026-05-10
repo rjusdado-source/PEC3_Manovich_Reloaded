@@ -88,7 +88,7 @@ Desde esta perspectiva, proyectos como Selfiecity y Windy no representan únicam
 - navegación interactiva,
 - simulación,
 - automatización,
-- y estructuras algorítmicas.
+- estructuras algorítmicas.
 
 Ambos casos permiten observar cómo el software contemporáneo transforma tanto la representación visual como la manera en que navegamos e interpretamos la información.
 
@@ -150,7 +150,7 @@ La experiencia no consiste únicamente en observar fotografías, sino en explora
 - edades,
 - géneros,
 - contextos urbanos,
-- y comportamientos repetitivos.
+- comportamientos repetitivos.
 
 En este sentido, Selfiecity representa claramente una hibridación entre:
 
@@ -158,7 +158,7 @@ En este sentido, Selfiecity representa claramente una hibridación entre:
 - visualización de datos,
 - análisis algorítmico,
 - representación estadística,
-- e interfaz interactiva.
+- interfaz interactiva.
 
 La interfaz no solo organiza contenido visual; también produce nuevas formas de conocimiento cultural a partir del análisis computacional de las imágenes.
 
@@ -173,7 +173,7 @@ Desde esta perspectiva, la visualización cultural funciona como una forma híbr
 - bases de datos,
 - automatización,
 - representación visual,
-- e interacción dinámica.
+- interacción dinámica.
 
 Como consecuencia, el usuario deja de comportarse como un simple espectador y pasa a explorar sistemas visuales organizados computacionalmente.
 
@@ -202,7 +202,7 @@ En este contexto, la interfaz funciona como un lenguaje híbrido donde convergen
 - representación visual,
 - interacción dinámica,
 - automatización computacional,
-- y navegación visual.
+- navegación visual.
 
 La experiencia cultural ya no depende únicamente del contenido de las imágenes, sino también de la manera en que el software las organiza, clasifica y representa visualmente.
 
@@ -259,7 +259,7 @@ La plataforma integra diferentes recursos digitales como:
 - simulaciones dinámicas,
 - navegación espacial,
 - representación audiovisual,
-- y actualización continua de información meteorológica.
+- actualización continua de información meteorológica.
 
 A diferencia de los mapas meteorológicos tradicionales, Windy transforma datos científicos complejos en una experiencia visual fluida donde el usuario puede explorar fenómenos atmosféricos de forma intuitiva e interactiva.
 
@@ -272,7 +272,7 @@ La experiencia de uso resulta especialmente inmersiva porque combina simultánea
 - interacción táctil o visual,
 - representación cartográfica,
 - simulación dinámica,
-- y actualización constante de datos.
+- actualización constante de datos.
 
 Desde esta perspectiva, Windy no funciona únicamente como una herramienta meteorológica, sino como una forma híbrida de representación visual mediada completamente por software.
 
@@ -298,7 +298,7 @@ La experiencia híbrida surge de la integración entre:
 - visualización interactiva,
 - representación audiovisual,
 - navegación dinámica,
-- y actualización permanente de datos.
+- actualización permanente de datos.
 
 Desde la perspectiva de Manovich, Windy ejemplifica cómo el software contemporáneo genera nuevas formas de representación imposibles dentro de los medios tradicionales.
 
@@ -312,7 +312,7 @@ Windy refleja claramente esta idea porque combina elementos procedentes de disti
 - simulación científica,
 - animación,
 - representación de datos,
-- e interacción en tiempo real.
+- interacción en tiempo real.
 
 El resultado no es simplemente una suma de recursos visuales, sino una nueva forma de experimentar la información meteorológica mediante navegación interactiva y representación dinámica.
 
