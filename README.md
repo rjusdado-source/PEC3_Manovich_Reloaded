@@ -22,13 +22,13 @@ https://github.com/rjusdado-source/PEC3_Manovich_Reloaded
 - [Introducción](#introducción)
 - [¿Qué es la hibridación según Manovich?](#qué-es-la-hibridación-según-manovich)
 
-- [Caso 1 - Selfiecity](#caso-1-selfiecity)
+- [Caso 1 - Selfiecity](#caso-1---selfiecity)
   - [Presentación del caso](#presentación-del-caso)
   - [Selfiecity como ejemplo de hibridación](#selfiecity-como-ejemplo-de-hibridación)
   - [Visualización cultural y representación algorítmica](#visualización-cultural-y-representación-algorítmica)
   - [Reflexión personal sobre Selfiecity](#reflexión-personal-sobre-selfiecity)
 
-- [Caso 2 - Windy](#caso-2-windy)
+- [Caso 2 - Windy](#caso-2---windy)
   - [Presentación del caso](#presentación-del-caso-1)
   - [Windy como ejemplo de hibridación](#windy-como-ejemplo-de-hibridación)
   - [Navegación espacial y experiencia inmersiva](#navegación-espacial-y-experiencia-inmersiva)
