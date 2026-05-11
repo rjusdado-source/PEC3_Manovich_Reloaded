@@ -60,7 +60,7 @@ Ambos proyectos muestran cómo el software contemporáneo no solo organiza infor
 
 En ambos casos, la interfaz deja de ser un simple soporte técnico y pasa a convertirse en parte esencial del propio lenguaje del medio.
 
-(./imgenes/introduccion_hibridacion.jpg)
+![Introducción hibridación](./imagenes/introduccion_hibridacion.jpg)
 
 
 ---
@@ -87,8 +87,6 @@ Desde esta perspectiva, proyectos como Selfiecity y Windy no representan únicam
 - estructuras algorítmicas.
 
 Ambos casos permiten observar cómo el software contemporáneo transforma tanto la representación visual como la manera en que navegamos e interpretamos la información.
-
-(./imagenes/introduccion_hibridacion.jpg)
 
 > Referencia:
 >
@@ -124,7 +122,7 @@ La interfaz permite explorar relaciones entre edad, expresión facial, inclinaci
 
 Desde esta perspectiva, Selfiecity no estudia únicamente imágenes individuales, sino patrones culturales construidos mediante software.
 
-(./img/selfiecity.jpg)
+![selfiecity](./imagenes/selfiecity.jpg)
 
 > Referencias:
 >
@@ -272,7 +270,7 @@ La experiencia de uso resulta especialmente inmersiva porque combina simultánea
 
 Desde esta perspectiva, Windy no funciona únicamente como una herramienta meteorológica, sino como una forma híbrida de representación visual mediada completamente por software.
 
-(./imagenes/windy.jpg)
+![Windy](./imagenes/windy.jpg)
 
 > Referencias:
 >
