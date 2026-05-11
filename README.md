@@ -37,7 +37,6 @@ https://github.com/rjusdado-source/PEC3_Manovich_Reloaded
 - [Conclusiones](#conclusiones)
 - [Bibliografía](#bibliografía)
 - [Recursos multimedia](#recursos-multimedia)
-- [Licencia](#licencia)
 
 ---
 ---
@@ -61,11 +60,8 @@ Ambos proyectos muestran cómo el software contemporáneo no solo organiza infor
 
 En ambos casos, la interfaz deja de ser un simple soporte técnico y pasa a convertirse en parte esencial del propio lenguaje del medio.
 
-![TO DO: Imagen conceptual sobre software e interfaces](./img/introduccion_hibridacion.jpg)
+(./imgenes/introduccion_hibridacion.jpg)
 
-> Referencia:
->
-> Manovich, Lev. *El software toma el mando*. Barcelona: Editorial UOC, 2013.
 
 ---
 
@@ -92,7 +88,7 @@ Desde esta perspectiva, proyectos como Selfiecity y Windy no representan únicam
 
 Ambos casos permiten observar cómo el software contemporáneo transforma tanto la representación visual como la manera en que navegamos e interpretamos la información.
 
-![TO DO: Imagen conceptual sobre software e interfaces](./img/introduccion_hibridacion.jpg)
+(./imagenes/introduccion_hibridacion.jpg)
 
 > Referencia:
 >
@@ -128,7 +124,7 @@ La interfaz permite explorar relaciones entre edad, expresión facial, inclinaci
 
 Desde esta perspectiva, Selfiecity no estudia únicamente imágenes individuales, sino patrones culturales construidos mediante software.
 
-![TO DO: Visualización de patrones en Selfiecity](./img/selfiecity.jpg)
+(./img/selfiecity.jpg)
 
 > Referencias:
 >
@@ -276,7 +272,7 @@ La experiencia de uso resulta especialmente inmersiva porque combina simultánea
 
 Desde esta perspectiva, Windy no funciona únicamente como una herramienta meteorológica, sino como una forma híbrida de representación visual mediada completamente por software.
 
-![TO DO: Visualización cartográfica en Windy](./img/windy.jpg)
+(./imagenes/windy.jpg)
 
 > Referencias:
 >
@@ -458,28 +454,14 @@ En este sentido, las reflexiones de Manovich continúan siendo especialmente út
 
 ## Imágenes utilizadas
 
-- TO DO
-- TO DO
-- TO DO
+- introduccion_hibridacion.jpg
+- selfiecity.jpg
+- windy.jpg
 
-> TO DO:
 >
-> - Añadir referencias completas de las imágenes.
-> - Revisar licencias de uso (ver licenciamiento de posibles capturas de pantalla).
-> - Optimizar tamaño de imágenes para GitHub y ver como crear ubicar la carpeta img de imagenes (revisar el proyecto origen propuesto en la asignatura, tenía una imagen)
+> - Tipo: captura de pantalla / recurso visual conceptual.
+> - *Fuente: Selfiecity — http://selfiecity.net*
+> - *Fuente: windy.com* (https://community.windy.com/topic/11/can-we-use-pictures-animations-or-videos-from-windy-in-our-tv-webpage-newspaper-project)
 
----
-
-# Licencia
-
-Este proyecto utiliza una licencia abierta siguiendo la filosofía de cultura compartida y reutilización colaborativa mencionada en el planteamiento de la práctica.
-
-> TO DO:
->
-> - Decidir licencia definitiva.
-> - Finalizar fichero LICENSE.
-> - Revisar uso de licencia Creative Commons (y posibles capturas).
-
----
 
 
