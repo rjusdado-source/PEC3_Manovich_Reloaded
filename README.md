@@ -13,7 +13,7 @@ https://github.com/rjusdado-source/PEC3_Manovich_Reloaded
 **Asignatura:** Cultura Digital  
 **Práctica:** PEC3 - Manovich   
 **Curso académico:** 1er. semestre 2026
-**Fecha:** TO DO
+**Fecha:** 11/05/2026
 
 ---
 
