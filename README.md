@@ -17,7 +17,7 @@ https://github.com/rjusdado-source/PEC3_Manovich_Reloaded
 
 ---
 
-# TO DO: Índice (revisar como se enlaza7navega  en markdown)
+# Índice
 
 - [Introducción](#introducción)
 - [¿Qué es la hibridación según Manovich?](#qué-es-la-hibridación-según-manovich)
